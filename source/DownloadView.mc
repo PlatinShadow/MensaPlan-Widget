@@ -60,9 +60,7 @@ class DownloadView extends WatchUi.View {
 
         dc.drawText(dc.getWidth() / 2, dc.getHeight() / 2, Gfx.FONT_TINY, "Loading Plan", Gfx.TEXT_JUSTIFY_VCENTER | Gfx.TEXT_JUSTIFY_CENTER);
 
-        //yes this "progress bar" is basicaly just a prank
-        //because you can't update the displays while doing some other task
-        //because garmin has never heard of multi threading
+        //yes this "progress bar" is basicaly not real
         //TODO: implement something that does not have a for loop
         //Or only loop through 20 items at a time and then update display
         dc.setPenWidth(4);
