@@ -3,7 +3,7 @@ using Toybox.Graphics as Gfx;
 using Toybox.Graphics;
 
 class AnimationDelegate extends WatchUi.AnimationDelegate {
-    var view = null;
+    hidden var view = null;
 
     function initialize( v ) {
         view = v;

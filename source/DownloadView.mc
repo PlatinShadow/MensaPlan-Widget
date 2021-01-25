@@ -1,23 +1,26 @@
 using Toybox.WatchUi;
-using Toybox.Time;
-using Toybox.Time.Gregorian;
 using Toybox.Communications;
 using Toybox.Application.Storage;
 using Toybox.Graphics as Gfx;
-using Toybox.Lang;
+
 
 class DownloadView extends WatchUi.View {
 
     hidden var dwnldProgress    = 0.8;
+    hidden var dateKey          = null;
+    hidden var dateString       = null;
 
-    function initialize() {
+
+    function initialize( _dateKey , _dateString) {
+        dateKey     = _dateKey;
+        dateString  = _dateString;
         View.initialize();
     }
 
     function onReceive(responseCode, data) {
         if(responseCode != 200) {
-            //TODO: Go to error View
-
+            //Go to error View
+            WatchUi.switchToView(new ErrorView(responseCode, "Could not load plan"), new WatchUi.InputDelegate(), WatchUi.SLIDE_IMMEDIATE);
             return;
         }
 
@@ -31,11 +34,11 @@ class DownloadView extends WatchUi.View {
             Storage.setValue(keys[i], data.get(keys[i]));
         }
 
-        WatchUi.switchToView(new PlanView(), new WatchUi.InputDelegate(), WatchUi.SLIDE_LEFT);
+        WatchUi.switchToView(new PlanView(data.get(dateKey), dateString), new WatchUi.InputDelegate(), WatchUi.SLIDE_LEFT);
     }
 
     function onShow() {
-            System.println("Starting Plan Download....");
+        System.println("Starting Plan Download....");
 
         var options = {                                             
            :method => Communications.HTTP_REQUEST_METHOD_GET,
@@ -48,6 +51,7 @@ class DownloadView extends WatchUi.View {
 
         //Send web request to firebase db
         Communications.makeWebRequest("https://georgii-app-6e295.firebaseio.com/Mensa.json", null, options, method(:onReceive));
+
     }
 
     function onUpdate(dc) {
@@ -61,9 +65,8 @@ class DownloadView extends WatchUi.View {
         //because garmin has never heard of multi threading
         //TODO: implement something that does not have a for loop
         //Or only loop through 20 items at a time and then update display
-        dc.setColor(Gfx.COLOR_YELLOW, Gfx.COLOR_BLACK);
-
         dc.setPenWidth(4);
+        dc.setColor(Gfx.COLOR_YELLOW, Gfx.COLOR_BLACK);
         dc.drawArc(dc.getWidth() / 2, dc.getHeight() / 2, 110, Gfx.ARC_CLOCKWISE, 90, 90 + (360*dwnldProgress));
     }
 
