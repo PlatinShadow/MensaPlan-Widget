@@ -1,1 +1,1 @@
-"# MensaPlan-Widget" 
+# MensaPlan-Widget

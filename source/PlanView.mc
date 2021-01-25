@@ -25,25 +25,44 @@ class PlanView extends WatchUi.View {
         //Adjust date
         findDrawableById("text_date").setText(dateString);
 
-        var plan = Storage.getValue(dateKey);
+        var value = Storage.getValue(dateKey);
 
-        //Check if today is a holiday
-        if(plan["isHolidy"] == true) {
-            findDrawableById("text_food_meat").setText(plan["holidayName"]);
+        //There is only a single word in the string
+        //which probably is a Holiday name
+        if(value.find("\n") == null) {
+            findDrawableById("text_food_meat").setText(value);
             return;
         }
+
+        //Process data if there is more than one newLine
+        //Each line holds one meal
+        var index = 0;
+        var pos = value.find("\n");
+        var meals = [];
+        while(pos != null) {
+            meals.add(value.substring(0, pos));
+
+            value = value.substring(pos+1, value.length());
+            pos = value.find("\n");
+
+            index++;
+        }
+        
+        //Add last item to array
+        meals.add(value.substring(0, value.length()));
+
 
         //Check how many meal entries there are
         //If there are less then 4 then veggie and meat 
         //are the same meal
-        if(plan["meals"].size() < 4) {
-            findDrawableById("text_food_meat").setText(plan["meals"][1]);
-            findDrawableById("text_food_veggie").setText(plan["meals"][1]);
-            findDrawableById("text_food_dessert").setText(plan["meals"][2]);
+        if(meals.size() < 4) {
+            findDrawableById("text_food_meat").setText(meals[1]);
+            findDrawableById("text_food_veggie").setText(meals[1]);
+            findDrawableById("text_food_dessert").setText(meals[2]);
         } else {
-            findDrawableById("text_food_meat").setText(plan["meals"][1]);
-            findDrawableById("text_food_veggie").setText(plan["meals"][2]);
-            findDrawableById("text_food_dessert").setText(plan["meals"][3]);
+            findDrawableById("text_food_meat").setText(meals[1]);
+            findDrawableById("text_food_veggie").setText(meals[2]);
+            findDrawableById("text_food_dessert").setText(meals[3]);
         }
     }
 

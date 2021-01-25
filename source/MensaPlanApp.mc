@@ -29,6 +29,8 @@ class MensaPlan extends Application.AppBase {
             return [ new WeekendView() ];
         }
 
+        //TODO: PLEASE DON'T FORGET TO DELETE THIS LINE LMAO
+        //      WE DON'T WANT TO REDOWNLOAD THIS SHIT EVERY TIME WE OPEN THE WIDGET
         Storage.clearValues();
 
         var plan = Storage.getValue(dateKey);

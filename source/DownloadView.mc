@@ -16,6 +16,8 @@ class DownloadView extends WatchUi.View {
 
     function onReceive(responseCode, data) {
         if(responseCode != 200) {
+            //TODO: Go to error View
+
             return;
         }
 
@@ -25,42 +27,8 @@ class DownloadView extends WatchUi.View {
 
         //Write new plan to Storage
         var keys = data.keys();
-        var size = keys.size();
-        for(var i = 0; i < size; i++) {
-            var value = data.get(keys[i]);
-            var plan = { };
-
-            //There is only a single word in the string
-            //and which probably is a Holiday name
-            if(value.find("\n") == null) {
-                plan["isHoliday"] = true;
-                plan["holidayName"] = value;
-                Storage.setValue(keys[i], plan);
-                continue;
-            }
-
-            //Process data if there is more than one newLine
-            //Each line holds one meal
-            var index = 0;
-            var pos = value.find("\n");
-            var meals = [];
-            while(pos != null) {
-                meals.add(value.substring(0, pos));
-
-                value = value.substring(pos+1, value.length());
-                pos = value.find("\n");
-
-                index++;
-            }
-
-            //Add last item to array
-            meals.add(value.substring(0, value.length()));
-            plan["meals"] = meals;
-            plan["isHoliday"] = false;
-
-
-            //Save plan to Storage
-            Storage.setValue(keys[i], plan);
+        for(var i = 0; i < keys.size(); i++) {
+            Storage.setValue(keys[i], data.get(keys[i]));
         }
 
         WatchUi.switchToView(new PlanView(), new WatchUi.InputDelegate(), WatchUi.SLIDE_LEFT);
