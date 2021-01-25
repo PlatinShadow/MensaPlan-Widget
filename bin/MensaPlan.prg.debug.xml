@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<manifest filename="S:\Dev\Bruh\MensaPlan\manifest.xml"/>
+<pcToLineNum>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\PlanView.mc" id="3" lineNum="10" pc="268435456" symbol="initialize"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\PlanView.mc" id="3" lineNum="11" pc="268435460" symbol="initialize"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\PlanView.mc" id="4" lineNum="14" pc="268435479" symbol="onLayout"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\PlanView.mc" id="4" lineNum="15" pc="268435483" symbol="onLayout"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\PlanView.mc" id="5" lineNum="18" pc="268435521" symbol="onShow"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\PlanView.mc" id="5" lineNum="20" pc="268435525" symbol="onShow"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\PlanView.mc" id="5" lineNum="22" pc="268435569" symbol="onShow"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\PlanView.mc" id="5" lineNum="23" pc="268435637" symbol="onShow"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\PlanView.mc" id="5" lineNum="26" pc="268435699" symbol="onShow"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\PlanView.mc" id="5" lineNum="28" pc="268435727" symbol="onShow"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\PlanView.mc" id="5" lineNum="31" pc="268435746" symbol="onShow"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\PlanView.mc" id="5" lineNum="32" pc="268435760" symbol="onShow"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\PlanView.mc" id="5" lineNum="33" pc="268435794" symbol="onShow"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\PlanView.mc" id="5" lineNum="39" pc="268435798" symbol="onShow"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\PlanView.mc" id="5" lineNum="40" pc="268435824" symbol="onShow"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\PlanView.mc" id="5" lineNum="41" pc="268435864" symbol="onShow"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\PlanView.mc" id="5" lineNum="42" pc="268435904" symbol="onShow"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\PlanView.mc" id="5" lineNum="44" pc="268435947" symbol="onShow"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\PlanView.mc" id="5" lineNum="45" pc="268435987" symbol="onShow"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\PlanView.mc" id="5" lineNum="46" pc="268436027" symbol="onShow"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\PlanView.mc" id="6" lineNum="50" pc="268436068" symbol="onUpdate"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\PlanView.mc" id="6" lineNum="51" pc="268436072" symbol="onUpdate"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\PlanView.mc" id="7" lineNum="54" pc="268436093" symbol="onHide"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\WeekendView.mc" id="9" lineNum="8" pc="268436098" symbol="initialize"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\WeekendView.mc" id="9" lineNum="9" pc="268436102" symbol="initialize"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\WeekendView.mc" id="9" lineNum="10" pc="268436112" symbol="initialize"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\WeekendView.mc" id="10" lineNum="13" pc="268436135" symbol="onAnimationEvent"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\WeekendView.mc" id="10" lineNum="15" pc="268436139" symbol="onAnimationEvent"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\WeekendView.mc" id="10" lineNum="16" pc="268436157" symbol="onAnimationEvent"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\WeekendView.mc" id="12" lineNum="28" pc="268436179" symbol="initialize"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\WeekendView.mc" id="12" lineNum="29" pc="268436183" symbol="initialize"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\WeekendView.mc" id="13" lineNum="32" pc="268436202" symbol="onLayout"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\WeekendView.mc" id="13" lineNum="33" pc="268436206" symbol="onLayout"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\WeekendView.mc" id="13" lineNum="34" pc="268436229" symbol="onLayout"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\WeekendView.mc" id="13" lineNum="35" pc="268436284" symbol="onLayout"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\WeekendView.mc" id="13" lineNum="36" pc="268436316" symbol="onLayout"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\WeekendView.mc" id="13" lineNum="39" pc="268436339" symbol="onLayout"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\WeekendView.mc" id="13" lineNum="40" pc="268436379" symbol="onLayout"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\WeekendView.mc" id="13" lineNum="42" pc="268436399" symbol="onLayout"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\WeekendView.mc" id="14" lineNum="45" pc="268436425" symbol="onShow"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\WeekendView.mc" id="14" lineNum="46" pc="268436429" symbol="onShow"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\WeekendView.mc" id="14" lineNum="47" pc="268436452" symbol="onShow"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\WeekendView.mc" id="15" lineNum="51" pc="268436468" symbol="play"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\WeekendView.mc" id="15" lineNum="52" pc="268436472" symbol="play"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\WeekendView.mc" id="16" lineNum="55" pc="268436513" symbol="onUpdate"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\WeekendView.mc" id="16" lineNum="56" pc="268436517" symbol="onUpdate"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\WeekendView.mc" id="16" lineNum="57" pc="268436540" symbol="onUpdate"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\WeekendView.mc" id="16" lineNum="59" pc="268436585" symbol="onUpdate"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\WeekendView.mc" id="16" lineNum="62" pc="268436627" symbol="onUpdate"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\WeekendView.mc" id="16" lineNum="64" pc="268436645" symbol="onUpdate"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\WeekendView.mc" id="17" lineNum="67" pc="268436752" symbol="onHide"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\MensaPlanApp.mc" id="19" lineNum="9" pc="268436757" symbol="initialize"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\MensaPlanApp.mc" id="19" lineNum="10" pc="268436761" symbol="initialize"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\MensaPlanApp.mc" id="20" lineNum="14" pc="268436780" symbol="onStart"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\MensaPlanApp.mc" id="21" lineNum="18" pc="268436785" symbol="onStop"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\MensaPlanApp.mc" id="22" lineNum="22" pc="268436790" symbol="getInitialView"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\MensaPlanApp.mc" id="22" lineNum="23" pc="268436794" symbol="getInitialView"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\MensaPlanApp.mc" id="22" lineNum="24" pc="268436838" symbol="getInitialView"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\MensaPlanApp.mc" id="22" lineNum="27" pc="268436900" symbol="getInitialView"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\MensaPlanApp.mc" id="22" lineNum="29" pc="268436951" symbol="getInitialView"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\MensaPlanApp.mc" id="22" lineNum="32" pc="268436991" symbol="getInitialView"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\MensaPlanApp.mc" id="22" lineNum="34" pc="268437007" symbol="getInitialView"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\MensaPlanApp.mc" id="22" lineNum="37" pc="268437026" symbol="getInitialView"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\MensaPlanApp.mc" id="22" lineNum="39" pc="268437033" symbol="getInitialView"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\MensaPlanApp.mc" id="22" lineNum="43" pc="268437073" symbol="getInitialView"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\DownloadView.mc" id="24" lineNum="15" pc="268437111" symbol="initialize"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\DownloadView.mc" id="24" lineNum="16" pc="268437115" symbol="initialize"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\DownloadView.mc" id="25" lineNum="19" pc="268437134" symbol="onReceive"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\DownloadView.mc" id="25" lineNum="20" pc="268437138" symbol="onReceive"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\DownloadView.mc" id="25" lineNum="22" pc="268437149" symbol="onReceive"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\DownloadView.mc" id="25" lineNum="23" pc="268437159" symbol="onReceive"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\DownloadView.mc" id="25" lineNum="24" pc="268437172" symbol="onReceive"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\DownloadView.mc" id="25" lineNum="25" pc="268437188" symbol="onReceive"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\DownloadView.mc" id="25" lineNum="29" pc="268437192" symbol="onReceive"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\DownloadView.mc" id="25" lineNum="30" pc="268437215" symbol="onReceive"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\DownloadView.mc" id="25" lineNum="33" pc="268437231" symbol="onReceive"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\DownloadView.mc" id="25" lineNum="34" pc="268437244" symbol="onReceive"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\DownloadView.mc" id="25" lineNum="35" pc="268437257" symbol="onReceive"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\DownloadView.mc" id="25" lineNum="36" pc="268437272" symbol="onReceive"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\DownloadView.mc" id="25" lineNum="37" pc="268437290" symbol="onReceive"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\DownloadView.mc" id="25" lineNum="41" pc="268437298" symbol="onReceive"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\DownloadView.mc" id="25" lineNum="42" pc="268437319" symbol="onReceive"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\DownloadView.mc" id="25" lineNum="43" pc="268437329" symbol="onReceive"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\DownloadView.mc" id="25" lineNum="44" pc="268437339" symbol="onReceive"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\DownloadView.mc" id="25" lineNum="45" pc="268437362" symbol="onReceive"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\DownloadView.mc" id="25" lineNum="50" pc="268437368" symbol="onReceive"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\DownloadView.mc" id="25" lineNum="51" pc="268437375" symbol="onReceive"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\DownloadView.mc" id="25" lineNum="52" pc="268437393" symbol="onReceive"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\DownloadView.mc" id="25" lineNum="53" pc="268437401" symbol="onReceive"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\DownloadView.mc" id="25" lineNum="54" pc="268437408" symbol="onReceive"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\DownloadView.mc" id="25" lineNum="56" pc="268437438" symbol="onReceive"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\DownloadView.mc" id="25" lineNum="57" pc="268437470" symbol="onReceive"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\DownloadView.mc" id="25" lineNum="59" pc="268437488" symbol="onReceive"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\DownloadView.mc" id="25" lineNum="63" pc="268437501" symbol="onReceive"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\DownloadView.mc" id="25" lineNum="64" pc="268437540" symbol="onReceive"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\DownloadView.mc" id="25" lineNum="65" pc="268437550" symbol="onReceive"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\DownloadView.mc" id="25" lineNum="69" pc="268437560" symbol="onReceive"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\DownloadView.mc" id="25" lineNum="72" pc="268437596" symbol="onReceive"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\DownloadView.mc" id="25" lineNum="73" pc="268437609" symbol="onReceive"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\DownloadView.mc" id="25" lineNum="74" pc="268437622" symbol="onReceive"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\DownloadView.mc" id="26" lineNum="77" pc="268437699" symbol="onShow"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\DownloadView.mc" id="26" lineNum="78" pc="268437703" symbol="onShow"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\DownloadView.mc" id="26" lineNum="80" pc="268437726" symbol="onShow"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\DownloadView.mc" id="26" lineNum="90" pc="268437808" symbol="onShow"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\DownloadView.mc" id="27" lineNum="93" pc="268437849" symbol="onUpdate"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\DownloadView.mc" id="27" lineNum="94" pc="268437853" symbol="onUpdate"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\DownloadView.mc" id="27" lineNum="95" pc="268437889" symbol="onUpdate"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\DownloadView.mc" id="27" lineNum="97" pc="268437901" symbol="onUpdate"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\DownloadView.mc" id="27" lineNum="99" pc="268437989" symbol="onUpdate"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\DownloadView.mc" id="27" lineNum="101" pc="268438021" symbol="onUpdate"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\DownloadView.mc" id="27" lineNum="102" pc="268438038" symbol="onUpdate"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\DownloadView.mc" id="27" lineNum="103" pc="268438077" symbol="onUpdate"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\DownloadView.mc" id="27" lineNum="104" pc="268438094" symbol="onUpdate"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\DownloadView.mc" id="27" lineNum="105" pc="268438133" symbol="onUpdate"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\DownloadView.mc" id="27" lineNum="106" pc="268438150" symbol="onUpdate"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\DownloadView.mc" id="27" lineNum="109" pc="268438189" symbol="onUpdate"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\DownloadView.mc" id="27" lineNum="110" pc="268438206" symbol="onUpdate"/>
+<entry filename="S:\\Dev\\Bruh\\MensaPlan\\source\\DownloadView.mc" id="28" lineNum="113" pc="268438295" symbol="onHide"/>
+<entry filename="Rez" id="34" lineNum="19" pc="268438300" symbol="PlanLayout"/>
+<entry filename="Rez" id="34" lineNum="21" pc="268438312" symbol="PlanLayout"/>
+<entry filename="Rez" id="34" lineNum="22" pc="268438418" symbol="PlanLayout"/>
+<entry filename="Rez" id="34" lineNum="23" pc="268438524" symbol="PlanLayout"/>
+<entry filename="Rez" id="34" lineNum="24" pc="268438630" symbol="PlanLayout"/>
+<entry filename="Rez" id="34" lineNum="25" pc="268438736" symbol="PlanLayout"/>
+<entry filename="Rez" id="34" lineNum="26" pc="268438841" symbol="PlanLayout"/>
+<entry filename="Rez" id="34" lineNum="27" pc="268438946" symbol="PlanLayout"/>
+<entry filename="Rez" id="34" lineNum="29" pc="268439051" symbol="PlanLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="8391281" object="true" symbol="AnimationDelegate"/>
+<entry id="8389346" symbol="text"/>
+<entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+<entry id="8391333" symbol="delegate"/>
+<entry id="4" module="true" symbol="globals/Rez/Menus"/>
+<entry field="true" id="17" symbol="icon_food_icecream"/>
+<entry field="true" id="28" symbol="status"/>
+<entry id="10" object="true" symbol="WeekendView"/>
+<entry id="8390424" module="true" symbol="Storage"/>
+<entry field="true" id="27" symbol="dwnldProgress"/>
+<entry id="8388924" module="true" symbol="Gregorian"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8391429" object="true" symbol="AnimationLayer"/>
+<entry field="true" id="15" symbol="icon_food_bacon"/>
+<entry field="true" id="21" symbol="AppName"/>
+<entry id="8" module="true" symbol="globals/Rez/Strings"/>
+<entry field="true" id="8391716" symbol="errorCode"/>
+<entry id="8389594" symbol="headers"/>
+<entry id="12" object="true" symbol="DownloadView"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="8389345" symbol="rezId"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="2" module="true" symbol="globals/Rez"/>
+<entry id="11" object="true" symbol="MensaPlan"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="9" object="true" symbol="PlanView"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389348" symbol="font"/>
+<entry id="14" module="true" symbol="Menus"/>
+<entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+<entry id="8391298" method="true" symbol="play"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry field="true" id="19" symbol="fireworks"/>
+<entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+<entry id="8388637" module="true" symbol="Communications"/>
+<entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+<entry id="8391314" method="true" symbol="onAnimationEvent"/>
+<entry id="8389844" symbol="responseType"/>
+<entry id="8388786" method="true" symbol="method"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry field="true" id="24" symbol="animDelegate"/>
+<entry id="29" method="true" symbol="onReceive"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="18" symbol="LauncherIcon"/>
+<entry id="8388610" symbol="statics"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8389350" module="true" symbol="globals"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="25" symbol="drawLayerDc"/>
+<entry field="true" id="26" symbol="view"/>
+<entry field="true" id="16" symbol="icon_food_leaf"/>
+<entry id="20" method="true" symbol="PlanLayout"/>
+<entry field="true" id="23" symbol="drawLayer"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="13" module="true" symbol="Layouts"/>
+<entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8388635" module="true" symbol="Application"/>
+<entry field="true" id="22" symbol="animLayer"/>
+</symbolTable>
+<localVars>
+<entry arg="true" endPc="268435521" name="dc" stackId="1" startPc="268435479"/>
+<entry endPc="268436067" name="dateString" stackId="2" startPc="268435525"/>
+<entry endPc="268436067" name="plan" stackId="4" startPc="268435525"/>
+<entry endPc="268436067" name="dateKey" stackId="3" startPc="268435525"/>
+<entry endPc="268436067" name="time" stackId="1" startPc="268435525"/>
+<entry arg="true" endPc="268436093" name="dc" stackId="1" startPc="268436068"/>
+<entry arg="true" endPc="268436135" name="v" stackId="1" startPc="268436098"/>
+<entry arg="true" endPc="268436179" name="options" stackId="2" startPc="268436135"/>
+<entry arg="true" endPc="268436179" name="event" stackId="1" startPc="268436135"/>
+<entry arg="true" endPc="268436425" name="dc" stackId="1" startPc="268436202"/>
+<entry arg="true" endPc="268436752" name="dc" stackId="1" startPc="268436513"/>
+<entry arg="true" endPc="268436785" name="state" stackId="1" startPc="268436780"/>
+<entry arg="true" endPc="268436790" name="state" stackId="1" startPc="268436785"/>
+<entry endPc="268437110" name="plan" stackId="3" startPc="268436794"/>
+<entry endPc="268437110" name="dateKey" stackId="2" startPc="268436794"/>
+<entry endPc="268437110" name="time" stackId="1" startPc="268436794"/>
+<entry endPc="268437583" name="index" stackId="8" startPc="268437272"/>
+<entry endPc="268437583" name="value" stackId="6" startPc="268437272"/>
+<entry endPc="268437583" name="meals" stackId="10" startPc="268437272"/>
+<entry endPc="268437583" name="plan" stackId="7" startPc="268437272"/>
+<entry endPc="268437583" name="pos" stackId="9" startPc="268437272"/>
+<entry endPc="268437596" name="i" stackId="5" startPc="268437272"/>
+<entry endPc="268437698" name="size" stackId="4" startPc="268437138"/>
+<entry endPc="268437698" name="keys" stackId="3" startPc="268437138"/>
+<entry arg="true" endPc="268437699" name="responseCode" stackId="1" startPc="268437134"/>
+<entry arg="true" endPc="268437699" name="data" stackId="2" startPc="268437134"/>
+<entry endPc="268437848" name="options" stackId="1" startPc="268437703"/>
+<entry arg="true" endPc="268438295" name="dc" stackId="1" startPc="268437849"/>
+<entry endPc="268439128" name="rez_cmp_local_bitmap_icon_food_icecream" stackId="8" startPc="268438312"/>
+<entry endPc="268439128" name="rez_cmp_local_text_text_food_meat" stackId="3" startPc="268438312"/>
+<entry endPc="268439128" name="rez_cmp_local_text_text_food_veggie" stackId="4" startPc="268438312"/>
+<entry endPc="268439128" name="rez_cmp_local_text_text_food_dessert" stackId="5" startPc="268438312"/>
+<entry endPc="268439128" name="rez_cmp_local_bitmap_icon_food_bacon" stackId="6" startPc="268438312"/>
+<entry endPc="268439128" name="rez_cmp_local_text_text_date" stackId="2" startPc="268438312"/>
+<entry endPc="268439128" name="rez_cmp_local_bitmap_icon_food_leaf" stackId="7" startPc="268438312"/>
+<entry arg="true" endPc="268439129" name="dc" stackId="1" startPc="268438300"/>
+</localVars>
+<annotations/>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="174" parentId="globals" symbolId="PlanView" type="class"/>
+<dataEntry offset="253" parentId="globals" symbolId="MensaPlan" type="class"/>
+<dataEntry offset="324" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="403" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="474" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="505" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="536" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="575" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="606" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="645" parentId="globals" symbolId="WeekendView" type="class"/>
+<dataEntry offset="764" parentId="globals" symbolId="AnimationDelegate" type="class"/>
+<dataEntry offset="827" parentId="globals" symbolId="DownloadView" type="class"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="PlanView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="PlanView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="PlanView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="PlanView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="PlanView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="AnimationDelegate">
+<param id="v"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onAnimationEvent" parent="AnimationDelegate">
+<param id="event"/>
+<param id="options"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="WeekendView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="WeekendView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="WeekendView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="play" parent="WeekendView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="WeekendView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="WeekendView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="MensaPlan">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="MensaPlan">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="MensaPlan">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="MensaPlan">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="DownloadView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onReceive" parent="DownloadView">
+<param id="responseCode"/>
+<param id="data"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="DownloadView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="DownloadView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="DownloadView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="PlanLayout" parent="Layouts">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>

@@ -1,0 +1,11 @@
+<layout id="PlanLayout">
+    <label  id="text_date"          x="25%"     y="20"  text="Loading..."                       />
+
+    <label  id="text_food_meat"     x="64"      y="72"   text="..." font="Graphics.FONT_TINY"   />
+    <label  id="text_food_veggie"   x="64"      y="114"  text="..." font="Graphics.FONT_TINY"   />
+    <label  id="text_food_dessert"  x="64"      y="159"  text="..." font="Graphics.FONT_TINY"   />
+
+    <bitmap id="icon_food_bacon"    x="20"      y="70"  filename="../drawables/bacon.png"       />
+    <bitmap id="icon_food_leaf"     x="20"      y="112" filename="../drawables/leaf.png"        />
+    <bitmap id="icon_food_icecream" x="20"      y="154" filename="../drawables/ice-cream.png"   />
+</layout>
