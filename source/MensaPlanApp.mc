@@ -32,7 +32,7 @@ class MensaPlan extends Application.AppBase {
 
         //TODO: PLEASE DON'T FORGET TO DELETE THIS LINE LMAO
         //      WE DON'T WANT TO REDOWNLOAD THIS SHIT EVERY TIME WE OPEN THE WIDGET
-        //Storage.clearValues();
+        ///Storage.clearValues();
 
         var plan = Storage.getValue(dateKey);
 
